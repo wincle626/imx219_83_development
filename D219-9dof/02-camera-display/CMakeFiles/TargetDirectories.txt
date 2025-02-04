@@ -1,0 +1,3 @@
+/home/user/workspace/imx219_83/D219-9dof/02-camera-display/CMakeFiles/camera-display.dir
+/home/user/workspace/imx219_83/D219-9dof/02-camera-display/CMakeFiles/edit_cache.dir
+/home/user/workspace/imx219_83/D219-9dof/02-camera-display/CMakeFiles/rebuild_cache.dir

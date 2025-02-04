@@ -1,0 +1,3 @@
+/home/user/workspace/imx219_83/D219-9dof/05-stereoBM-camera/CMakeFiles/stereoBM-camera.dir
+/home/user/workspace/imx219_83/D219-9dof/05-stereoBM-camera/CMakeFiles/edit_cache.dir
+/home/user/workspace/imx219_83/D219-9dof/05-stereoBM-camera/CMakeFiles/rebuild_cache.dir
